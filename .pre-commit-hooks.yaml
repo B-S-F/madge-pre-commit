@@ -7,3 +7,4 @@
     types: [text]
     files: \.(ts|tsx)$
     additional_dependencies: ['madge@^8.0.0']
+    args: []
