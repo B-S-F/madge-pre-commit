@@ -3,7 +3,6 @@
     entry: npx madge --circular --extensions ts
     pass_filenames: false
     language: node
-    language_version: lts
     types: [text]
     files: \.(ts|tsx)$
     additional_dependencies: ['madge@^8.0.0']
